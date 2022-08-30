@@ -1,0 +1,17 @@
+Q1)ANS- [ ] `.example a`
+Q2)ANS-[ ] `a[title]{...}`
+Q3)ANS- [ ] `a[title]`
+Q4)ANS-  [ ] Use the "clearfix hack" on the parent element or use the overflow property with a value other than
+"visible."
+Q5)ANS-- [ ]
+```markdown
+1. An element with an class of "nav"
+2. A nav element
+3. An element with a id of "nav"
+```
+Q6)ANS-[ ] git --version
+Q7)ANS-- [ ] git remote add new
+Q8)ANS-- [ ] The current branch's HEAD is reset back five commits, then prior commits are squashed
+into a single commit.
+Q9)ANS- [ ] Checkout the beta branch and run git merge push-notification
+Q10)ANS- [ ] All new and updated files are staged
